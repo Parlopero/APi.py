@@ -11,7 +11,7 @@ cd pythonProject
 
 3.Instalar as dependências.
 
-sudo pip3 install -r requirements.txt
+requests 'pip install requests'
 
 4.Finalmente rodar o script.
 
